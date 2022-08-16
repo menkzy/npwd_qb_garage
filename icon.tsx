@@ -1,6 +1,6 @@
 import React from 'react';
-import { Garage } from '@mui/icons-material';
+import CarRentalIcon from '@mui/icons-material/CarRental';
 
 export const GarageIcon = () => {
-  return <Garage fontSize="large" />;
+  return <CarRentalIcon fontSize="large" />;
 };
